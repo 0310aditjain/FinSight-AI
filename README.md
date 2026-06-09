@@ -1,7 +1,4 @@
-# FinSight-AI
-AI-powered mutual fund selector and stock portfolio analyser built using Claude
 # FinSight AI
-
 AI-powered investment research tools built during MBA at IE Business School.
 
 ## Tools
